@@ -1,3 +1,4 @@
+# it is task 4 exercise
 def compare(x, y):
     if (x > y):
         return 1
